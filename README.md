@@ -2,7 +2,7 @@
 
 # Fortigate Belsen Leak 
 
-This repository contains informaion about the Fortigate firewall vulnerability (CVE-2022-40684) and affected IPs that were publicly disclosed by the Belsen Group. This information is being shared for security research and defensive purposes to help organizations identify if they were impacted.
+This repository contains informaion about the Fortigate firewall vulnerability (CVE-2022-40684) and affected data that were publicly disclosed by the Belsen Group. This information is being shared for security research and defensive purposes to help organizations identify if they were impacted.
 
 ## Background
 
@@ -18,7 +18,7 @@ This repository serves as a resource for:
 ## Contents
 
 - `FortiLEAK-Belgium`: List of Belgian usernames found in the leak
-- `FortiLEAK-Domains-Belgium`: List of Belgian usernames found in the leak
+- `FortiLEAK-Domains-Belgium`: List of domains found in the leak (Belgian ip's only)
 
 ## Disclaimer
 
