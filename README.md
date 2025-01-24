@@ -17,7 +17,8 @@ This repository serves as a resource for:
 
 ## Contents
 
-- `affected_ips.txt`: List of IP addresses identified as potentially affected
+- `FortiLEAK-Belgium`: List of Belgian usernames found in the leak
+- `FortiLEAK-Domains-Belgium`: List of Belgian usernames found in the leak
 
 ## Disclaimer
 
